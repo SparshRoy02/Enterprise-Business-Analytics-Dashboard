@@ -218,7 +218,7 @@ Enterprise-Business-Analytics-Dashboard
 ├── dashboard
 │     └── dashboard_preview.pdf
 │
-├── README.md
+└── README.md
 ```
 
 ### Learning Outcomes
