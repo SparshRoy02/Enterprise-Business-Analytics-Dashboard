@@ -233,10 +233,8 @@ Through this project, the following skills were demonstrated:
 
 ### Conclusion
 
-This project demonstrates how **Excel can be effectively used as a Business Intelligence and data analysis tool** to transform raw transactional data into meaningful insights through structured analysis and interactive visual dashboards.
+This project demonstrates how **Excel can be effectively used as a Business Intelligence and data analysis tool** to transform raw transactional data into meaningful insights through structured analysis and interactive visual dashboards. The dashboard also reveals that the **R&D department contributes the highest revenue and profit**, emphasizing the impact of innovation-driven functions on overall business performance. 
 
 By analyzing business performance across **product lines, payment methods, regions, and organizational departments**, the dashboard provides a clear overview of financial and operational performance. The analysis highlights that **cash transactions generate the highest profit**, while **Healthcare and Electronics product lines contribute the most revenue**, indicating key business growth drivers. Regional transaction analysis shows strong activity in **Africa and North America**, suggesting higher customer engagement in these markets.
-
-The dashboard also reveals that the **R&D department contributes the highest revenue and profit**, emphasizing the impact of innovation-driven functions on overall business performance. 
 
 Overall, this project demonstrates how **data visualization and financial analysis can support data-driven decision-making, strategic planning, and business performance monitoring**. It also showcases core **data analytics skills including data aggregation, dashboard development, business performance analysis, and insight generation using Microsoft Excel**.
